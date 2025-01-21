@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "rc522.h": "c",
+        "cstddef": "c",
+        "oled.h": "c",
+        "spi.h": "c"
+    }
+}
